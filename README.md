@@ -3,12 +3,12 @@
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&h=300&q=80" alt="Profile Banner" width="100%" />
 </div>
 
-## Hey, I'm Hriddha :3
+## Hriddha, just building cool stuff on the internet
 
-Hey I'm **Hriddha**, an aspiring dev building Discord bots, simulation engines, and web apps across the internet (and a decent enough chess player when I'm not debugging).
+Hey I'm **Hriddha**, an aspiring dev crafting Discord bots, simulation engines, and web apps (and playing a decent game of chess when I'm not debugging).
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" width="18" height="18" align="absmiddle" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="20" height="20" align="absmiddle" />
   <b> Hriddha Tech</b>
 </p>
 
