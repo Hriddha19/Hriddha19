@@ -1,6 +1,6 @@
 <!-- Upload a wide banner image (1200x300px) to your Hriddha19 repo, click it, copy its raw URL, and replace the src below -->
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&h=300&q=80" alt="Profile Banner" width="100%" />
+  <img src="https://ih0.vercel.app/qz.jpg" alt="Profile Banner" width="100%" />
 </div>
 
 ## Hriddha, just building cool stuff on the internet
